@@ -1,2 +1,4 @@
 This will be the first chapter of this book.
 I am happy to write the first chapter of this book
+We started with defining what GIT was and looked at the benefits of git in SCM over older traditional
+methods of managing our code.
