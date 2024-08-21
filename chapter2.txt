@@ -1,0 +1,2 @@
+In chapter 2, I will take a deep dive into branching and merging techniques in git
+Branching is a way of working on the same file in parallel

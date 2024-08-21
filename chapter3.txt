@@ -1,0 +1,2 @@
+In this chapter, a fast forward merge moves a branch in the 
+same stem to the most recent commit of another branch

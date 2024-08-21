@@ -1,0 +1,5 @@
+In this chapter, I conclude the introductory lessons to GIT.
+Git is a soucrce code management tool that does very well in managing codes, files etc in
+a distributed system. 
+we cloned the remote repository from github using the command "git clone <REPOSITORY URL>
+we then cd'd to the repo folder itself and started creating files

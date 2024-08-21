@@ -1,0 +1,8 @@
+This is the first chapter of the book
+I am a great writer and I have written books for countless clients
+This chapter is going to be like no other chapter and it is going to get me more recommendations
+
+Unmodified = U
+Modified = M
+Staged  = A
+Untracked = does not show anything
